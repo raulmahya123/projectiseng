@@ -1,16 +1,23 @@
 ## FRAME WORK YANG DIGUNAKAN 
 
-| BAHASA PEMPROGRAMAN     | NAMAFRAMEWORK | KUALITAS | 
+| BAHASA PEMPROGRAMAN     | NAMA FRAMEWORK | KUALITAS | 
 | ----------- | ----------- | ----------- |
 | NODE JS      |EXPRES JS | √ |
 | NODE JS      |REACT JS | √ |
 | CSS      |SCSS/SAS | √ |
 
-## EXTENSION YANG DIGUNAKAN
+## EXTENSIONS YANG DIGUNAKAN
 
-| BAHASA PEMPROGRAMAN     | NAMAFRAMEWORK | KUALITAS | 
-| ----------- | ----------- | ----------- |
-| NODE JS      |EXPRES JS | √ |
+| EXTENSIONS     | KUALITAS | 
+| ----------- | ----------- |
+| BEAUTIFY      | √ |
+| DRAKULA OFFICIAL      | √ |
+| ES7+ REACT/REDUX/REACT0NATIVE SNIPPETS      | √ |
+| JAVASCRIPT (ES6) CODE SNIPPETS      | √ |
+| JEST      | √ |
+| REST CLIENT      | √ |
+| TAILWIND CSS INTELLISENSE      | √ |
+| VSCODE-ICONS      | √ |
 
 # PROJECT AI DAN REACT JS
 
