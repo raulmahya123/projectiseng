@@ -1,4 +1,13 @@
-# projectiseng
+## FRAME WORK YANG DIGUNAKAN 
+
+| BAHASA PEMPROGRAMAN     | NAMAFRAMEWORK | KUALITAS | 
+| ----------- | ----------- | ----------- |
+| NODE JS      |EXPRES JS | √ |
+| NODE JS      |REACT JS | √ |
+| CSS      |SCSS/SAS | √ |
+
+
+# PROJECT AI DAN REACT JS
 
 Aplikasi ini menggunakan integrasi ChatEngine, OpenAI dan ChatGPT. 
 
