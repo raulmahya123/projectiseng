@@ -14,6 +14,6 @@ OpenAI untuk integrasi AI dengan obrolan. Seperti ChatGPT, Anda dapat mengobrol 
 
 ChatGPT memudahkan developer untuk membuat chatbot yang dapat memahami bahasa alami serta dapat memberikan respon seperti manusia pada umumnya terhadap pertanyaan user, tanpa harus melatih model dari awal.
 
-Frontend terdiri dari ChatEngine untuk aplikasi chat, Redux Toolkit untuk manajemen state, Redux Query Toolkit untuk panggilan API, Icon Hero untuk icon, dan React Router untuk navigasi. Backend menggunakan Node Js sebagai runtime, Express Js sebagai kerangka backend, dan OpenAI.
+Frontend terdiri dari ChatEngine untuk aplikasi chat, Redux Toolkit untuk manajemen state, Redux Query Toolkit untuk panggilan API, Icon Hero untuk icon, dan React Router untuk navigasi. Backend menggunakan Node Js sebagai runtime, Express Js sebagai framework backend, dan OpenAI.
 
 
