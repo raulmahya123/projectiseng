@@ -1,4 +1,4 @@
-## FRAME WORK YANG DIGUNAKAN 
+## FRAMEWORKS YANG DIGUNAKAN 
 
 | BAHASA PEMPROGRAMAN     | NAMA FRAMEWORK | KUALITAS | 
 | ----------- | ----------- | ----------- |
@@ -11,8 +11,8 @@
 | EXTENSIONS     | KUALITAS | 
 | ----------- | ----------- |
 | BEAUTIFY      | √ |
-| DRAKULA OFFICIAL      | √ |
-| ES7+ REACT/REDUX/REACT0NATIVE SNIPPETS      | √ |
+| DRACULA OFFICIAL      | √ |
+| ES7+ REACT/REDUX/REACT-NATIVE SNIPPETS      | √ |
 | JAVASCRIPT (ES6) CODE SNIPPETS      | √ |
 | JEST      | √ |
 | REST CLIENT      | √ |
