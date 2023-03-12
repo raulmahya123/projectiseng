@@ -1,0 +1,7 @@
+{
+    "compileOnSave": {
+        "paths":{
+            "@/*":['./src/*']
+        }
+    }
+}
