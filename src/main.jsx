@@ -5,9 +5,4 @@ import './index.scss'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
-<<<<<<< HEAD
-  </React.StrictMode>,
 )
-=======
-)
->>>>>>> dev
