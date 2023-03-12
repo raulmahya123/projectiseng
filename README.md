@@ -6,6 +6,11 @@
 | NODE JS      |REACT JS | √ |
 | CSS      |SCSS/SAS | √ |
 
+## EXTENSION YANG DIGUNAKAN
+
+| BAHASA PEMPROGRAMAN     | NAMAFRAMEWORK | KUALITAS | 
+| ----------- | ----------- | ----------- |
+| NODE JS      |EXPRES JS | √ |
 
 # PROJECT AI DAN REACT JS
 
