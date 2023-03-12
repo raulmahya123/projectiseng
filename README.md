@@ -2,15 +2,15 @@
 
 Aplikasi ini menggunakan integrasi ChatEngine, OpenAI dan ChatGPT. 
 
-#ChatEngine
+# ChatEngine
 
 ChatEngine bertanggung jawab untuk memproses serta menafsirkan pesan dari user, menghasilkan response dari pesan user, dan mengatur bagaimana alur percakapan akan terjadi.
 
-#OpenAI
+# OpenAI
 
 OpenAI untuk integrasi AI dengan obrolan. Seperti ChatGPT, Anda dapat mengobrol melalui aplikasi obrolan.
 
-#ChatGPT
+# ChatGPT
 
 ChatGPT memudahkan developer untuk membuat chatbot yang dapat memahami bahasa alami serta dapat memberikan respon seperti manusia pada umumnya terhadap pertanyaan user, tanpa harus melatih model dari awal.
 
