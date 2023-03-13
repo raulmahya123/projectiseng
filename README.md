@@ -8,7 +8,7 @@
 
 ## EXTENSIONS YANG DIGUNAKAN
 
-| EXTENSIONS     | KUALITAS | 
+| EXTENSIONS     | WAJIB DIPAKAI | 
 | ----------- | ----------- |
 | BEAUTIFY      | √ |
 | DRACULA OFFICIAL      | √ |
